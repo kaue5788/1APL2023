@@ -2,3 +2,5 @@
 # Kauê Morais Gonçalves de Melo
 ## Pensamento Computacional
 -Colégio Paulo Lemisnki
+- **professora Drielle**
+- 
